@@ -1,5 +1,5 @@
 ![Stretch wireframe kit](./banner.png)
-# :fire: Stretch wireframe kit :fire:
+# :fire: Stretch Wireframe kit :fire:
 *The only lightweight toolkit you need to create topnotch wireframes for your awesome app en web projects*
 
 ## 🛠 Resources
