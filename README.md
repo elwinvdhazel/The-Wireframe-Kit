@@ -1,35 +1,47 @@
-![Stretch wireframe kit](./banner.png)
-# :fire: Stretch Wireframe kit :fire:
-*The only lightweight toolkit you need to create topnotch wireframes for your awesome app en web projects*
+![The Wireframe Kit](./banner.png)
+# :gem: The Wireframe Kit
+>The only Sketch toolkit you’ll ever need to create topnotch wireframes for your awesome app en web project.
+~ Created by [Elwin van den Hazel](https://elwin.vdhazel.com)
+
+## ⚙️ Installation
+1. Clone or download this repo
+2. Install the [resources](#-resources)
+3. Open [`TheWireframeKit.sketch`](https://github.com/elwinvdhazel/The-Wireframe-Kit/source/TheWireframeKit.sketch) in Sketch
+4. Optional: Add as library `File > Add as library…`
+5. Enjoy!
 
 ## 🛠 Resources
-In this Wireframe kit we make use of some external resources:
+The Wireframe Kit makes use of some resources:
 
 ### Fonts
-In this Wireframe kit we make use of the official Apple SF Pro Typeface (Regular & Bold) and the Fira mono font.
-Download & install the fonts first before you start working with this kit:
+The official Apple SF Pro Typeface (Regular & Bold) and the Fira mono font are used.
+Download & install the fonts first before you start:
 - :package: Download [Apple San Francisco Pro](https://developer.apple.com/fonts/)
 - :package: Download [Fira mono](https://mozilla.github.io/Fira/)
 
 ### Icons
-For the icons, we make use of a Material design icon-set. You can download the latest version here:
-- :package: Download the (unofficial) [Material icon-set](https://www.sketchappsources.com/free-source/3022-material-icons-sketch-library-with-color-overrides.html)
+For the icons, a (unofficial) Material design icon-set is used. You can download the latest version here:
+- :package: Download the [Material icon-set](https://www.sketchappsources.com/free-source/3022-material-icons-sketch-library-with-color-overrides.html)
 
-*To use this icon-set, download the file and add this file as a library (open file, File > Add as library…).*
-*It is possible, of course, to use other icon libraries. As long as the icons are 24*24px in size.*
+*To use this icon-set, download the file and add as a library `open file, File > Add as library…`.*
+*It is possible, of course, to use your own or other icon libraries. As long as the icons are 24*24px in size.*
+
+## :open_file_folder: What's inside?
+### Text styles
+The Wireframe Kit includes a set of predefined text styles. To use the text styles, insert the symbol: `styleguide/typography`.
 
 ### Symbols
-This kit includes all the basic symbols you’ll need for your project.
-With this set of symbols, you can create endless variations and combinations to build your interface. 
+The Wireframe Kit includes all the basic symbols you’ll need for your next project.
+With this set of symbols, you can create endless variations and combinations to build your interface.
 
 #### Missing something? 
-Something needed that’s not in the kit?
+Need something that’s not in The Kit?
 Be creative and see if you can make something new by combining existing symbols.
 
-If that’s not working out, create a pull request.
+If that’s not working out, create a [new issue](https://github.com/elwinvdhazel/The-Wireframe-Kit/issues/new).
 
 ### Metrics
-To keep the wireframes consistent, we make use of the binary number system for the size, spacing and aligning of elements.
+To keep your wireframes consistent, The Kit makes use of the binary number system for the size, spacing and aligning of elements.
 
 *Pro tip: In sketch, use the “alt” key + mouse hovering to check the distance between elements*
 
@@ -38,7 +50,7 @@ If you have a recent version of Sketch (> 49) you can make use of the prototype 
 
 :information_source: [Check here](https://sketchapp.com/docs/prototyping) for more info if you want to learn more about Sketch prototype.
 
-## All set!
+## :tada: All set!
 Now go and create some awesome wireframes! :ok_hand:
 
-*If you notice any typos, errors, inconsistencies or if you have any questions or suggestions for improving the Stretch wireframe kit, please create a pull request*
+*If you notice any typos, errors, inconsistencies or if you have any questions or suggestions for improving The Wireframe Kit, please create a [new issue](https://github.com/elwinvdhazel/The-Wireframe-Kit/issues/new)*
