@@ -1,6 +1,6 @@
 ![The Wireframe Kit](./banner.png)
 # :gem: The Wireframe Kit
->The only Sketch toolkit you’ll ever need to create topnotch wireframes for your awesome app en web project.
+>The only Sketch toolkit you’ll ever need to create topnotch wireframes for your awesome app and web project.
 ~Created by [Elwin van den Hazel](https://elwin.vdhazel.com)
 
 ## ⚙️ Installation
