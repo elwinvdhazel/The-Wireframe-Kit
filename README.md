@@ -6,7 +6,7 @@
 ## ⚙️ Installation
 1. Clone or download this repo
 2. Install the [resources](#-resources)
-3. Open [`TheWireframeKit.sketch`](https://github.com/elwinvdhazel/The-Wireframe-Kit/source/TheWireframeKit.sketch) in Sketch
+3. Open [`TheWireframeKit.sketch`](https://github.com/elwinvdhazel/The-Wireframe-Kit/blob/master/source/TheWireframeKit.sketch) in Sketch
 4. Optional: Add as library `File > Add as library…`
 5. Enjoy!
 
