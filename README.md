@@ -28,7 +28,7 @@ For the icons, a (unofficial) Material design icon-set is used. You can download
 
 ## :open_file_folder: What's inside?
 ### Text styles
-The Wireframe Kit includes a set of predefined text styles. To sync the textstyles, use the [Sketch Style Libraries](https://github.com/sigtm/sketch-style-libraries) plugin.
+The Wireframe Kit includes a set of predefined text styles. To sync the text styles, use the [Sketch Style Libraries](https://github.com/sigtm/sketch-style-libraries) plugin.
 
 ### Symbols
 The Wireframe Kit includes all the basic symbols you’ll need for your next project.
