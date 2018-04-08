@@ -24,7 +24,7 @@ For the icons, a (unofficial) Material design icon-set is used. You can download
 - :package: Download the [Material icon-set](https://www.sketchappsources.com/free-source/3022-material-icons-sketch-library-with-color-overrides.html)
 
 *To use this icon-set, download the file and add as a library `open file, File > Add as library…`.*
-*It is possible, of course, to use your own or other icon libraries. As long as the icons are 24*24px in size.*
+*It is possible, of course, to use your own or other icon libraries. As long as the icons are 24 x 24px in size.*
 
 ## :open_file_folder: What's inside?
 ### Text styles
