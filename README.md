@@ -22,7 +22,7 @@ Download & install the fonts first before you start:
 ### Icons
 For the icons, an (unofficial) [Material design icon-set](https://github.com/zsoltszilvai/Material-icons-sketch-library-with-color-overrides) is added as submodule.
 To use this icon-set:
-- :package: Open [`Material_icons_library.sketch`](https://github.com/elwinvdhazel/The-Wireframe-Kit/blob/master/submodules/Material-icons-sketch-library-with-color-overrides/Material_icons_library.sketch) in Sketch and add as a library `File > Add as library…`.
+- :package: Open [`Material_icons_library.sketch`](https://github.com/elwinvdhazel/The-Wireframe-Kit/blob/master/submodules) in Sketch and add as a library `File > Add as library…`.
 
 *It is possible, of course, to use your own or other icon libraries. As long as the icons are 24 x 24px in size.*
 
