@@ -1,0 +1,3 @@
+[submodule "submodules/Material-icons-sketch-library-with-color-overrides"]
+	path = submodules/Material-icons-sketch-library-with-color-overrides
+	url = https://github.com/zsoltszilvai/Material-icons-sketch-library-with-color-overrides.git
