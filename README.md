@@ -20,7 +20,7 @@ Download & install the fonts first before you start:
 - :package: Download [Fira mono](https://mozilla.github.io/Fira/)
 
 ### Icons
-For the icons, a (unofficial) [Material design icon-set](https://github.com/zsoltszilvai/Material-icons-sketch-library-with-color-overrides) is added as submodule.
+For the icons, an (unofficial) [Material design icon-set](https://github.com/zsoltszilvai/Material-icons-sketch-library-with-color-overrides) is added as submodule.
 To use this icon-set:
 - :package: Open [`Material_icons_library.sketch`](https://github.com/elwinvdhazel/The-Wireframe-Kit/blob/master/submodules/Material-icons-sketch-library-with-color-overrides/Material_icons_library.sketch) in Sketch and add as a library `File > Add as library…`.
 
