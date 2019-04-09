@@ -7,7 +7,7 @@
 1. Clone or download this repo
 2. Install the [resources](#-resources)
 3. Open [`TheWireframeKit.sketch`](https://github.com/elwinvdhazel/The-Wireframe-Kit/blob/master/source/TheWireframeKit.sketch) in Sketch
-4. Optional: Add as library `File > Add as library…`
+4. Optional but recommended: Add as library `File > Add as library…`
 5. Enjoy!
 
 ## 🛠 Resources
@@ -34,7 +34,7 @@ The Wireframe Kit includes a set of predefined text styles. For Sketch <= 50 use
 The Wireframe Kit includes all the basic symbols you’ll need for your next project.
 With this set of symbols, you can create endless variations and combinations to build your interface.
 
-#### Missing something? 
+#### Missing something?
 Need something that’s not in The Kit?
 Be creative and see if you can make something new by combining existing symbols.
 
