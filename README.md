@@ -3,6 +3,7 @@
 >The only Sketch toolkit you’ll ever need to create topnotch wireframes for your awesome app and web project.
 ~Created by [Elwin van den Hazel](https://elwin.vdhazel.com)
 
+<br/>
 ## ⚙️ Installation
 1. Clone or download this repo
 2. Install the [resources](#-resources)
@@ -10,6 +11,7 @@
 4. Optional but recommended: Add as library `File > Add as library…`
 5. Enjoy!
 
+<br/>
 ## 🛠 Resources
 The Wireframe Kit makes use of some resources:
 
@@ -20,12 +22,14 @@ Download & install the fonts first before you start:
 - :package: Download [Fira mono](https://mozilla.github.io/Fira/)
 
 ### Icons
-For the icons, an (unofficial) [Material design icon-set](https://github.com/zsoltszilvai/Material-icons-sketch-library-with-color-overrides) is added as submodule.
-To use this icon-set:
-- :package: Open [`Material_icons_library.sketch`](https://github.com/elwinvdhazel/The-Wireframe-Kit/blob/master/submodules) in Sketch and add as a library `File > Add as library…`.
+For the icons, we suggest to make use of the official Google Material Design [icon set](https://material.io/tools/theme-editor/downloads/icons/material-design-icons-sharp.sketch).
+To use this icon set:
+1. :package: Download the [icon set](https://material.io/tools/theme-editor/downloads/icons/material-design-icons-sharp.sketch).
+2. Open `material-design-icons-sharp.sketch` in Sketch and add as a library `File > Add as library…`.
 
 *It is possible, of course, to use your own or other icon libraries. As long as the icons are 24 x 24px in size.*
 
+<br/>
 ## :open_file_folder: What's inside?
 ### Text styles
 The Wireframe Kit includes a set of predefined text styles. For Sketch <= 50 use the [Sketch Style Libraries](https://github.com/sigtm/sketch-style-libraries) plugin to sync the text styles.
@@ -41,7 +45,7 @@ Be creative and see if you can make something new by combining existing symbols.
 If that’s not working out, create a [new issue](https://github.com/elwinvdhazel/The-Wireframe-Kit/issues/new).
 
 ### Metrics
-To keep your wireframes consistent, The Kit makes use of the binary number system for the size, spacing and aligning of elements.
+To keep your wireframes consistent, The Kit makes use of the base-2 numeral system (2, 8, 16, 32, 64, ...) for the size, spacing and aligning of elements.
 
 *Pro tip: In sketch, use the “alt” key + mouse hovering to check the distance between elements*
 
@@ -50,6 +54,7 @@ If you have a recent version of Sketch (> 49) you can make use of the prototype 
 
 :information_source: [Check here](https://sketchapp.com/docs/prototyping) for more info if you want to learn more about Sketch prototype.
 
+<br/>
 ## :tada: All set!
 Now go and create some awesome wireframes! :ok_hand:
 
