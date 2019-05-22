@@ -4,6 +4,7 @@
 ~Created by [Elwin van den Hazel](https://elwin.vdhazel.com)
 
 <br/>
+
 ## ⚙️ Installation
 1. Clone or download this repo
 2. Install the [resources](#-resources)
@@ -12,6 +13,7 @@
 5. Enjoy!
 
 <br/>
+
 ## 🛠 Resources
 The Wireframe Kit makes use of some resources:
 
@@ -30,6 +32,7 @@ To use this icon set:
 *It is possible, of course, to use your own or other icon libraries. As long as the icons are 24 x 24px in size.*
 
 <br/>
+
 ## :open_file_folder: What's inside?
 ### Text styles
 The Wireframe Kit includes a set of predefined text styles. For Sketch <= 50 use the [Sketch Style Libraries](https://github.com/sigtm/sketch-style-libraries) plugin to sync the text styles.
@@ -55,6 +58,7 @@ If you have a recent version of Sketch (> 49) you can make use of the prototype 
 :information_source: [Check here](https://sketchapp.com/docs/prototyping) for more info if you want to learn more about Sketch prototype.
 
 <br/>
+
 ## :tada: All set!
 Now go and create some awesome wireframes! :ok_hand:
 
