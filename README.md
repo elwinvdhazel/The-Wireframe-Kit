@@ -35,7 +35,7 @@ To use this icon set:
 
 ## :open_file_folder: What's inside?
 ### Text styles
-The Wireframe Kit includes a set of predefined text styles. For Sketch <= 50 use the [Sketch Style Libraries](https://github.com/sigtm/sketch-style-libraries) plugin to sync the text styles.
+The Wireframe Kit includes a set of predefined text styles.
 
 ### Symbols
 The Wireframe Kit includes all the basic symbols you’ll need for your next project.
